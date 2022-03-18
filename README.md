@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
+## I'm Alex
+
+### | Student | Engineering Enthusiast | Sci-fi Fans |
+
+- 🌱 I’m currently learning about Machine Learning & Deep Learning, especially it's application for BCI (Brain Computer Interface)
+- 🔭 I’m currently working on Real Time EEG Classification and it's application / integration
+
+---
+[EvheMary's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 <!--
 **xEvheMary/xevhemary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
