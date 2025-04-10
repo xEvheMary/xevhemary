@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on Real Time EEG Classification and it's application / integration
 
 ---
-<img align="center" alt="Evhemary's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xevhemary&show_icons=true&theme=dracula" />
 <!--
 **xEvheMary/xevhemary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
